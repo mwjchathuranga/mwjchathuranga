@@ -6,7 +6,8 @@
 
 <a href="https://github.com/mwjchathuranga"><img src="https://komarev.com/ghpvc/?username=mwjchathuranga&style=flat-square&color=red" alt=""/></a>
 
-## 🚀 About Me
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align= center></picture> **About me**
+
 🙋‍♂️ I'm Janaka, I’m currently doing a **Bachelor of Information Technology (BIT)** degree at University Of Colombo School Of Computing and self learning **Programmer**.
 
 ## 🌐 Social
