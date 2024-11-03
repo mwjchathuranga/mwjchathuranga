@@ -36,7 +36,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/in/janaka-chathuranga" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="in/janaka-chathuranga" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/janaka-chathuranga" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="in/janaka-chathuranga" height="50" width="50" /></a>
 <a href="https://fb.com/mwjanakachathuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mwjanakachathuranga" height="50" width="50" /></a>
 </p>
 
@@ -66,12 +66,6 @@
   </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
 
 
 <img align="center" src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif"/>
